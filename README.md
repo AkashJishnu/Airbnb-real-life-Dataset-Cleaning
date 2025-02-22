@@ -40,7 +40,7 @@ Jupyter Notebook
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/AkashJishnu/Airbnb-real-life-Dataset-Cleaning.git
 
 Navigate to the project folder:
 
